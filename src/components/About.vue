@@ -22,7 +22,7 @@
 
           <div>
             <p>
-              I’m a Junior Fullstack Developer located in South jakarta, Indonesia.
+              I’m a Fullstack Developer located in South jakarta, Indonesia.
               I learn a serious passion for UI effects,animations and creating intuitive,
               dynamic user experiences.
             </p>

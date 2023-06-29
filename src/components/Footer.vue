@@ -168,7 +168,7 @@
           <div
             class="flex items-center justify-center mt-1 hover:text-green-500 text-green-900 font-medium rounded-lg dark:text-white hover:bg-blue-100 dark:hover:bg-gray-700"
             aria-current="page">
-            <div class="whitespace-nowrap">Blogs</div>
+            <div class="whitespace-nowrap">Certificate</div>
           </div>
         </router-link>
       </div>

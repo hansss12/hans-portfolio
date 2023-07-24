@@ -1,4 +1,3 @@
 # myPortfolio
 
-![display]("./images/landing.png")# hans-portfolio
-# hans-portfolio
+![display]("./src/images/landing.png")# hans-portfolio

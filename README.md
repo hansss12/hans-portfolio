@@ -1,3 +1,3 @@
 # myPortfolio
 
-![display]("./src/images/Landing.png")
+![display]("src/images/Landing.png")
